@@ -14,3 +14,4 @@ class GFG {
         System.out.println(addBinary(x, y));
     }
 }
+#comments are added
